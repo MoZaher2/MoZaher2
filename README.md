@@ -81,14 +81,17 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/mohamed-zaher-83678a316" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="45" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mohamed-zaher-83678a316" target="_blank">
+    <img style="transform: scale(1.2); margin-right:10px;"
+         src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/201005138370" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="45" alt="whatsapp logo"  />
+    <img style="transform: scale(1.2); margin-right:10px;"
+         src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:mohamedzahertaha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="45" alt="gmail logo"  />
+    <img style="transform: scale(1.2);"
+         src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
