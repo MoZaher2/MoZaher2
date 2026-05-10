@@ -76,7 +76,7 @@
 ## 🌐 Connect With Me
 
 <div>
-  <a href="https://www.linkedin.com/in/mohamed-zaher-83678a316" target="_blank">
+  <a href="www.linkedin.com/in/mohamedzaher-dev" target="_blank">
     <img style="transform: scale(1.3); margin-right:10px;"
          src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -92,14 +92,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MoZaher2&show_icons=true&theme=dracula&hide_border=true" height="160"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoZaher2&layout=compact&theme=dracula&hide_border=true" height="160"/>
-</div>
-
----
 
 ## 🔥 Contribution Graph
 
