@@ -11,11 +11,13 @@
 ## 🧑‍💻 About Me
 
 <p>
-💻 Web Developer (Frontend & Backend)<br>
-🎓 Computer Science Graduate (2024)<br>
-🚀 Passionate about performance & clean UI<br>
-🌱 Currently improving my Full-Stack skills<br>
-🎯 Focused on building real-world scalable apps
+💻 Full-Stack Web Developer specialized in building scalable modern web applications<br>
+🎓 Computer Science Graduate from Minia University (2024)<br>
+⚡ Experienced in React.js, Next.js, Node.js, and TypeScript<br>
+🚀 Passionate about performance optimization, clean architecture, and responsive UI<br>
+🛠️ Interested in Backend Development, DevOps, and CI/CD workflows<br>
+🌱 Currently improving my skills in Docker, PostgreSQL, and cloud deployment<br>
+🎯 Experienced in integrating AI APIs (OpenAI) into real-world applications like CV analyzers and smart assistants
 </p>
 
 ---
@@ -36,16 +38,16 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
   <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45"/>
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45"/>
 </div>
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
   <img width="10"/>
@@ -54,21 +56,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
 </div>
+
+---
+
+### ⚡ DevOps & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CI/CD-Automated_Deployment-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 🤖 AI & Productivity
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/AI_Integration-LLM_Apps-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Skilled-FF6B6B?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
 ### 🧰 Tools
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
-  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="postman logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
 </div>
 
 ---
