@@ -104,7 +104,7 @@
 ## 🌐 Connect With Me
 
 <div>
-  <a href="www.linkedin.com/in/mohamedzaher-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedzaher-dev" target="_blank">
     <img style="transform: scale(1.3); margin-right:10px;"
          src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
