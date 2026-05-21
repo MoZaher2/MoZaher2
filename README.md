@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Zaher</h1>
 
-<h3 align="center">💻 Web Developer | React • Next.js • Node.js • TypeScript</h3>
+<h3 align="center">💻 Web Developer | React.js • Next.js • Node.js • TypeScript</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F2FE&center=true&vCenter=true&width=500&lines=Web+Developer+(Frontend+%26+Backend);React+%26+NextJS+%26+NodeJS+%26+TypeScript;Always+learning+new+things" />
